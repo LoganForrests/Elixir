@@ -24,6 +24,7 @@ fonts/*
 img/*
 movies/*
 
+js/rpg-split-js/*
 js/plugins/bring-back-slowly/*
 
 *.html
