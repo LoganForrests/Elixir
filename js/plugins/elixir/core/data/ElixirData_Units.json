@@ -1,0 +1,85 @@
+{
+	"author": "Logan Forrests",
+	"version": "0.00",
+	"copyright": "2017",
+	"data": [
+		null, 
+		{
+			"id": 1,
+			"name": "Richter",
+			"stats": { 
+				"maxhp": 8, 
+				"power": 2, 
+				"armor" :4, 
+				"speed": 2, 
+				"skill": 3
+			},
+			"battlerName": null,
+			"characterIndex": 0,
+			"characterName": "Actor2",
+			"faceIndex": null,
+			"faceName": null,
+			"profile": "",
+			"moves": 3,
+			"energyCost": 5,
+			"recoverTime": 10
+		}, {
+			"id": 2,
+			"name": "Zaggat",
+			"stats": { 
+				"maxhp": 13, 
+				"power": 4, 
+				"armor" :2, 
+				"speed": 3, 
+				"skill": 2
+			},
+			"battlerName": null,
+			"characterIndex": 1,
+			"characterName": "Actor2",
+			"faceIndex": null,
+			"faceName": null,
+			"profile": "",
+			"moves": 3,
+			"energyCost": 5,
+			"recoverTime": 12
+		}, {
+			"id": 3,
+			"name": "Arulo",
+			"stats": { 
+				"maxhp": 10, 
+				"power": 3, 
+				"armor" :3, 
+				"speed": 2, 
+				"skill": 2
+			},
+			"battlerName": null,
+			"characterIndex": 2,
+			"characterName": "Actor2",
+			"faceIndex": null,
+			"faceName": null,
+			"profile": "",
+			"moves": 4,
+			"energyCost": 8,
+			"recoverTime": 16
+		}, {
+			"id": 4,
+			"name": "Tundra",
+			"stats": { 
+				"maxhp": 13, 
+				"power": 4, 
+				"armor" :2, 
+				"speed": 3, 
+				"skill": 2
+			},
+			"battlerName": null,
+			"characterIndex": 3,
+			"characterName": "Actor2",
+			"faceIndex": null,
+			"faceName": null,
+			"profile": "",
+			"moves": 2,
+			"energyCost": 10,
+			"recoverTime": 20
+		}
+	]
+}

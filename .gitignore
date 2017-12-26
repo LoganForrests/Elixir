@@ -17,6 +17,19 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+audio/*
+icon/*
+data/*
+fonts/*
+img/*
+movies/*
+
+js/plugins/bring-back-slowly/*
+
+*.html
+*.rpgproject
+
+
 # =========================
 # Operating System Files
 # =========================
